@@ -1,6 +1,6 @@
 const http = require('http');
 const totalvoice = require('totalvoice-node');
-const client = new totalvoice("4cf42ca5af35a1727938151bb2e11c1e");
+const client = new totalvoice("");
 
 const hostname = '127.0.0.1';
 const port = 3000;
